@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-Dither — Futuristic 3D Audio Visualizer",
+  "description": "A futuristic cyberpunk 3D music audio visualizer with audio-reactive particle systems, real-time waveform spectra, retro-digital dithering, and custom track loading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
